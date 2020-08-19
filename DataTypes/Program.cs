@@ -32,6 +32,10 @@ namespace DataTypes
             surname = "Yıldız";
             surname = "Alaca";
 
+
+            int sayi1, sayi2;
+
+
         }
     }
 }
